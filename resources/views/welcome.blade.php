@@ -28,9 +28,8 @@
 	</header>
 
     <div class="button-container">
-        <a href="/"><button class="button">Inicio</button></a>
-		<a href="/login"><button class="button">Ingresar</button></a>
-		<a href="/register"><button class="button">Crear cuenta</button></a>
+        <a href="/"><button class="button">INICIAR</button></a>
+		
 	</div>
 
 <div class="container mx-auto flex ">
